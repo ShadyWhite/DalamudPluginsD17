@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/ottercorp/ItemSearchPlugin.git"
+commit = "55914cc66c5657e854931c305a32992d900d2e8b"
+owners = [
+    "Caraxi", "MKhayle",
+]
+project_path = "ItemSearchPlugin"
+changelog = """
+-# 国服中文搜索与本地化支持
+"""
